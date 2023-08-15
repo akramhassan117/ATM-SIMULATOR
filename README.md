@@ -1,2 +1,2 @@
-# Flutter-App
-Flutter based cross platform app
+# Java App
+Java banking app
